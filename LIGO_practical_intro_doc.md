@@ -85,3 +85,5 @@ Of course, the files could be downloaded and inspected locally. But there is als
 
 - The `dag_name.submit` file and `bash_name.sh` file have useful information on the order of jobs submissions, but also on the commands used at each step that initialise the specific part of the run (these can be useful, if you want to check)
 
+- The different `.log` files show details (duration, memory etc) about the runs.
+
